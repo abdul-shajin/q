@@ -1,5 +1,12 @@
 Quottage::Application.routes.draw do
-  match '/auth/:provider/callback', :to => 'sessions#callback'
+  get "authentications/create"
+
+  devise_for :users
+
+  get "welcome/index"
+
+  #match '/auth/:provider/callback', :to => 'sessions#callback'
+  match '/auth/:provider/callback', :to => 'authentications#create'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -50,7 +57,7 @@ Quottage::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  # root :to => 'welcome#index'
+  root :to => 'welcome#index'
 
   # See how all your routes lay out with "rake routes"
 
