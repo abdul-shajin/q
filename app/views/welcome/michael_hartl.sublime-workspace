@@ -1,0 +1,1413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rule",
+				"rule_hash"
+			],
+			[
+				"ti",
+				"tickets-per-month"
+			],
+			[
+				"selecte",
+				"selected_taxons"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"total",
+				"total_array"
+			],
+			[
+				"taxon",
+				"taxon_selected"
+			],
+			[
+				"sele",
+				"selected_taxons"
+			],
+			[
+				"per_ti",
+				"per_ticket_filter"
+			],
+			[
+				"tab",
+				"table-window"
+			],
+			[
+				"tabl",
+				"table-penguine"
+			],
+			[
+				"get-",
+				"get-the-upperhand-by-hiring-us"
+			],
+			[
+				"help_n",
+				"help_n_support_tag"
+			],
+			[
+				"corpora",
+				"corporate_icon"
+			],
+			[
+				"focus",
+				"focusarea_banner"
+			],
+			[
+				"whe",
+				"why_choose_ss_icon"
+			],
+			[
+				"why",
+				"why_choose_ss_icon"
+			],
+			[
+				"others",
+				"others_icon"
+			],
+			[
+				"help_de",
+				"help_desk_icon"
+			],
+			[
+				"scr",
+				"script_installation_icon"
+			],
+			[
+				"catego",
+				"categories_icon"
+			],
+			[
+				"soluti",
+				"solutions_icon"
+			],
+			[
+				"order",
+				"order_now"
+			],
+			[
+				"serve",
+				"server_management_menu"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"Product",
+				"ProductFilters"
+			],
+			[
+				"tax",
+				"taxons_children_count"
+			],
+			[
+				"sub",
+				"sub_taxon"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ss_",
+				"ss_theme"
+			],
+			[
+				"ord",
+				"order_now"
+			],
+			[
+				"image",
+				"image_tag"
+			],
+			[
+				"taxons",
+				"taxons_children_count"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/shajin/rails/sample_app/app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/app/views/shared/_error_messages.html.erb",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/config/environments/production.rb",
+			"settings":
+			{
+				"buffer_size": 2454,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/spec/requests/user_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/spec/requests/authentication_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1446,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 2171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/app/controllers/sessions_controller.rb",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/shajin/rails/sample_app/app/helpers/sessions_helper.rb",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/shajin/rails/sample_app/app/views/sessions/new.html.erb",
+		"/home/shajin/rails/sample_app/app/controllers/application_controller.rb",
+		"/home/shajin/rails/sample_app/db/migrate/20130405071614_add_remember_token_to_user.rb",
+		"/home/shajin/rails/sample_app/spec/models/user_spec.rb",
+		"/home/shajin/rails/quottage/db/migrate/20130404082204_add_image_column_to_user.rb",
+		"/home/shajin/rails/quottage/spec/controllers/welcome_controller_spec.rb",
+		"/home/shajin/rails/quottage/Guardfile",
+		"/home/shajin/rails/spree/api/spec/dummy/README.rdoc",
+		"/home/shajin/rails/quottage/Gemfile",
+		"/home/shajin/rails/quottage/app/views/layouts/_navigation.html.erb",
+		"/home/shajin/rails/quottage/db/migrate/20130404090348_create_table_quotes.rb",
+		"/home/shajin/rails/quottage/app/assets/stylesheets/common.css.scss",
+		"/home/shajin/rails/quottage/db/migrate/20130404073423_remove_posts.rb",
+		"/home/shajin/rails/quottage/app/views/welcome/index.html.erb",
+		"/home/shajin/rails/quottage/app/controllers/welcome_controller.rb",
+		"/home/shajin/rails/quottage/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+		"/home/shajin/rails/quottage/app/controllers/authentications_controller.rb",
+		"/home/shajin/rails/quottage/app/assets/stylesheets/application.css.scss",
+		"/home/shajin/rails/quottage/tmp/cache/sass/937065bcfe0cbfa391a0ddfc0e2c2c22cfec6d5c/bootstrap_and_overrides.css.scssc",
+		"/home/shajin/rails/quottage/app/assets/javascripts/application.js",
+		"/home/shajin/rails/quottage/config/routes.rb",
+		"/home/shajin/rails/quottage/config/initializers/env_variables.rb",
+		"/home/shajin/rails/quottage/app/models/user.rb",
+		"/home/shajin/rails/quottage/app/models/authentication.rb",
+		"/home/shajin/rails/quottage/config/initializers/env_vatiables.rb",
+		"/home/shajin/rails/quottage/config/initializers/inflections.rb",
+		"/home/shajin/rails/quottage/config/environments/development.rb",
+		"/home/shajin/rails/quottage/app/views/layouts/_messages.html.erb",
+		"/home/shajin/rails/quottage/spec/controllers/authentications_controller_spec.rb",
+		"/home/shajin/rails/quottage/config/initializers/devise.rb",
+		"/home/shajin/rails/quottage/app/views/layouts/application.html.erb",
+		"/home/shajin/rails/spree/sandbox/config/application.rb",
+		"/home/shajin/rails/spree/sandbox/lib/rule.rb",
+		"/home/shajin/rails/spree/sandbox/lib/spree/product_filters.rb",
+		"/home/shajin/rails/spree/sandbox/app/views/layouts/main.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/store/bootstrap.js",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/store/common.js",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/store/main.js",
+		"/home/shajin/rails/spree/backend/app/views/spree/admin/taxonomies/edit.erb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_top_nav_menu.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_center_header.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_product_list.html.erb",
+		"/home/shajin/rails/spree/sandbox/config/routes.rb",
+		"/home/shajin/rails/spree/frontend/config/routes.rb",
+		"/home/shajin/rails/spree/core/app/models/spree/product/scopes.rb",
+		"/home/shajin/rails/spree/frontend/app/views/spree/taxons/filter_group.html.erb",
+		"/home/shajin/rails/spree/frontend/app/views/spree/shared/_products.html.erb",
+		"/home/shajin/rails/spree/core/app/helpers/spree/base_helper.rb",
+		"/home/shajin/rails/spree/frontend/app/views/spree/shared/_taxonomies.html.erb",
+		"/home/shajin/rails/spree/frontend/app/views/spree/shared/_filters.html.erb",
+		"/home/shajin/rails/spree/frontend/app/views/spree/taxons/show.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/store/taxonomy.js",
+		"/home/shajin/rails/spree/backend/app/assets/javascripts/admin/taxonomy.js",
+		"/home/shajin/rails/spree/core/config/locales/en.yml",
+		"/home/shajin/rails/spree/core/app/models/spree/product_scope/scopes.rb",
+		"/home/shajin/rails/spree/backend/config/routes.rb",
+		"/home/shajin/rails/spree/frontend/app/controllers/spree/taxons_controller.rb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_nav_menu_first_column.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/store/navigation.css.scss",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_product_filters.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_helpdesk_desc.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_header_part.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_footer_part.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/store/carouselstyle.css",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/application_main.css",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/store/bootstrap.css.scss",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/store/styles.css.scss",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/store/navigation.css",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/store/styles.css",
+		"/home/shajin/rails/spree/sandbox/app/views/layouts/application.html.erb",
+		"/home/shajin/rails/spree/core/app/models/spree/taxon.rb",
+		"/home/shajin/rails/spree/sandbox/app/views/shared/_taxonomy_filter.html.erb",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/application_main.js",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/application.js",
+		"/home/shajin/rails/spree/sandbox/app/assets/stylesheets/application.css",
+		"/home/shajin/rails/spree/core/app/models/spree/taxonomy.rb",
+		"/home/shajin/rails/spree/sandbox/app/assets/javascripts/store/all.js",
+		"/home/shajin/rails/spree/frontend/app/views/spree/shared/_sidebar.html.erb",
+		"/home/shajin/rails/spree/backend/app/views/spree/admin/taxons/_taxon_table.html.erb",
+		"/home/shajin/rails/spree/sandbox/Gemfile",
+		"/home/shajin/rails/spree/core/app/models/spree/price.rb",
+		"/home/shajin/rails/spree/core/lib/spree/core/product_filters.rb",
+		"/home/shajin/rails/spree/api/config/locales/en.yml",
+		"/home/shajin/rails/spree/backend/app/views/spree/admin/shared/_configuration_menu.html.erb",
+		"/home/shajin/rails/spree/sandbox/config/initializers/spree.rb",
+		"/home/shajin/rails/spree/sandbox/config/database.yml",
+		"/home/shajin/rails/spree/Gemfile",
+		"/home/shajin/rails/spree/frontend/config/initializers/spree.rb",
+		"/home/shajin/rails/spree/frontend/app/views/spree/shared/_main_nav_bar.html.erb",
+		"/home/shajin/rails/codesavvy.github.com/index.html",
+		"/home/shajin/rails/codesavvy.github.com/_posts/2012-12-13-up.md",
+		"/home/shajin/rails/codesavvy.github.com/_posts/2013-03-17-fonts-in-asset-pipeline.md",
+		"/home/shajin/rails/spree/sandbox/config/environment.rb",
+		"/home/shajin/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
+		"/home/shajin/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/shajin/rails/spree/frontend/Gemfile",
+		"/home/shajin/rails/spree/core/app/models/spree/calculator.rb",
+		"/home/shajin/rails/spree_ss_theme/app/views/spree/shared/_filters.html.erb",
+		"/home/shajin/rails/spree_ss_theme/app/views/spree/shared/_main_nav_bar.html.erb",
+		"/home/shajin/rails/cave_spree/app/overrides/spree/shared/_taxonomies/hide_tags_taxonomy.html.erb.deface",
+		"/home/shajin/rails/spree_ss_theme/config/routes.rb",
+		"/home/shajin/rails/spree_ss_theme/app/views/spree/shared/_nav_menu_first_column.html.erb",
+		"/home/shajin/Desktop/SupportSages/index_edited.html",
+		"/home/shajin/Desktop/SupportSages/index.html",
+		"/home/shajin/rails/cave_spree/config/environments/development.rb",
+		"/home/shajin/rails/cave_spree/app/helpers/application_helper.rb",
+		"/home/shajin/rails/cave_spree/app/helpers/taxon_helper.rb",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/ss_theme/styles.css.scss",
+		"/home/shajin/rails/cave_spree/tmp/cache/sass/d890ed60ba01fed77174a3bccdf490c9df4574ed/styles.css.scssc",
+		"/home/shajin/rails/cave_spree/db/migrate/20130306060131_add_menu_icon_to_spree_taxons.rb",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/ss_theme/navigation.css.scss",
+		"/home/shajin/.rvm/gems/ruby-1.9.3-p374/gems/spree_core-1.3.2/app/views/spree/shared/_taxonomies.html.erb",
+		"/home/shajin/rails/spree_ss_theme/app/views/spree/shared/_taxonomies.html.erb",
+		"/home/shajin/rails/cave_spree/config/application.rb",
+		"/home/shajin/rails/spree_ss_theme/app/views/spree/layouts/spree_application.html.erb",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/ss_theme/bootstrap.css",
+		"/home/shajin/rails/cave_spree/app/views/layouts/application.html.erb",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/screen.css.scss",
+		"/home/shajin/rails/spree_ss_theme/app/views/spree/shared/_nav_menu_first_column",
+		"/home/shajin/rails/spree_ss_theme/spec/dummy/config/environments/development.rb",
+		"/home/shajin/rails/cave_spree/spec/helpers/application_helper_spec.rb",
+		"/home/shajin/rails/cave_spree/app/assets/stylesheets/application.css",
+		"/home/shajin/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/ss_theme/navigation.css",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/spree_core.css",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/store/ss_theme/styles.css",
+		"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets/admin/spree_core.css",
+		"/home/shajin/rails/cave_spree/app/assets/stylesheets/store/all.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/shajin/rails/spree/",
+			"/home/shajin/rails/spree/core/app/views/spree",
+			"/home/shajin/rails/spree/sandbox/app/views",
+			"/home/shajin/rails/spree",
+			"/home/shajin/rails/spree_ss_theme",
+			"/home/shajin/rails/cave_spree",
+			"/home/shajin/rails/spree_ss_theme",
+			"/home/shajin/rails/spree_ss_theme/app/assets",
+			"/home/shajin/rails/spree_ss_theme",
+			"/home/shajin/rails/spree_ss_theme/app/assets",
+			"/home/shajin/rails/spree_ss_theme/app/assets/stylesheets",
+			"/media/shajin/C0780E29780E1F32/Srihari mobify/mobify"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"debugger",
+			"gt",
+			"path",
+			"login_btt",
+			"taxon_selected",
+			"in_taxon",
+			"find_by_name",
+			"def seo_url",
+			"jquery.ui.base",
+			"in_taxon",
+			"url(st",
+			"nav_a_bg",
+			"left_q",
+			"left_quote",
+			"url",
+			"store",
+			"nav_a_bg",
+			"nav_a_bg.jpg",
+			"right_qoute",
+			"store/",
+			"png",
+			"jpg",
+			"jpg)",
+			"png)",
+			"(*.jpg|*.png)",
+			"store/",
+			"(?:$&|store/s++)",
+			"(?:Sw|store/s++png)",
+			"(?:Sw|store/s++)",
+			"(?:Sw|store/s+)",
+			"(?:Sw|store/s+.jpg)",
+			"(?:Sw|store/++.jpg)",
+			"(?:Sw|store/+.jpg)",
+			"(?:Sw|store/+)",
+			"(?:Sw|store)",
+			"(?:Sw|())",
+			"(?:Sw|P)",
+			"(?:Sw|P)i(?:tch|s{2})\\s(?:it\\s)",
+			"(?:Sw|P)i(?:tch|s{2})\\s(?:it\\s)?of{2}!",
+			"$$(\\a)",
+			"(\\a)",
+			"\\a",
+			"$$\\a",
+			"$$",
+			"(\\a)",
+			"($$)",
+			"\\a",
+			"$'\\a",
+			"$'",
+			"$$",
+			"(?:Sw|P)i(?:tch|s{2})\\s(?:it\\s)?of{2}!",
+			"\\$\\1\\u\\2",
+			"(\\d+)",
+			"(?<!')\\]",
+			"url",
+			"top_header_bg",
+			"why_chos",
+			"url(\"",
+			"get-upper-hand-bg",
+			"../images",
+			"url",
+			"<img",
+			"img",
+			"*= ",
+			"\n<%=",
+			"%>\n",
+			"GEt",
+			"GET",
+			"children",
+			"def root",
+			"children",
+			"root",
+			"children",
+			"def children",
+			"children",
+			"debugger",
+			"taxonomy_taxons_path",
+			"base_url",
+			"edit",
+			"delete",
+			"edit",
+			"delete",
+			"paste",
+			"t(:paste)",
+			"taxons'",
+			"/taxons'",
+			"/taxonomies/",
+			"/api/taxonomies",
+			"taxonomy_tree",
+			"vakata-contextmenu",
+			"t(:remove)",
+			"remove",
+			"Remove",
+			"render",
+			"delete",
+			"debugger",
+			"price_filter",
+			"debugger",
+			"applicable_filters",
+			"def applicable_filters",
+			"taxons",
+			"applicable_filters",
+			"get_taxonomies",
+			"def get_taxonomies",
+			"get_taxonomies",
+			"parallels_plesk",
+			"whm_cPanel",
+			"main-img",
+			"#menu-first-clmn",
+			"#menu-first-clmn a",
+			"helpdesk.png",
+			"#main-nav-bar",
+			"#main-nav-bar li a",
+			"#main-nav-bar",
+			"#main-nav-bar li a",
+			"#navigation",
+			"helpdesk.png",
+			"#navigation",
+			"helpdesk",
+			"thcn_0-webfont",
+			"nav_bg",
+			"nav_a_bg",
+			"nav_bg",
+			"nav_a_bg",
+			"nav_bg",
+			"nav_a_bg",
+			"helveticaneueltstd-ltcn_0-webfont",
+			"helveticaneueltstd-ltcn_0-webfont.svg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jpg\")",
+			"png\")",
+			"\"store/",
+			"\"store",
+			"image-url",
+			"store"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/shajin/rails/sample_app/app/views/users/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/shajin/rails/sample_app/app/views/shared/_error_messages.html.erb",
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/shajin/rails/sample_app/app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/shajin/rails/sample_app/config/environments/production.rb",
+					"settings":
+					{
+						"buffer_size": 2454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1118,
+								1118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/shajin/rails/sample_app/spec/requests/user_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/shajin/rails/sample_app/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/shajin/rails/sample_app/spec/requests/authentication_pages_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1429,
+								1429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/shajin/rails/sample_app/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/shajin/rails/sample_app/app/controllers/sessions_controller.rb",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/shajin/rails/sample_app/app/helpers/sessions_helper.rb",
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sessions",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"session",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"add_rem",
+				"db/migrate/20130405071614_add_remember_token_to_user.rb"
+			],
+			[
+				"user_sp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"application_con",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"new",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"authen",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"user",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"pro",
+				"config/environments/production.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"_erro",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"guar",
+				"Guardfile"
+			],
+			[
+				"spe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gu",
+				"Guardfile"
+			],
+			[
+				"welcome_pa",
+				"spec/requests/welcome_pages_spec.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"wel",
+				"spec/controllers/welcome_controller_spec.rb"
+			],
+			[
+				"index.",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"quote",
+				"app/models/quote.rb"
+			],
+			[
+				"create_tabl",
+				"db/migrate/20130404090348_create_table_quotes.rb"
+			],
+			[
+				"_nav",
+				"app/views/layouts/_navigation.html.erb"
+			],
+			[
+				"authenti",
+				"app/controllers/authentications_controller.rb"
+			],
+			[
+				"add_im",
+				"db/migrate/20130404082204_add_image_column_to_user.rb"
+			],
+			[
+				"authentic",
+				"app/controllers/authentications_controller.rb"
+			],
+			[
+				"remove",
+				"db/migrate/20130404073423_remove_posts.rb"
+			],
+			[
+				"_navi",
+				"app/views/layouts/_navigation.html.erb"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"bootsra",
+				"tmp/cache/sass/937065bcfe0cbfa391a0ddfc0e2c2c22cfec6d5c/bootstrap_and_overrides.css.scssc"
+			],
+			[
+				"index",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"develop",
+				"config/environments/development.rb"
+			],
+			[
+				"_n",
+				"app/views/layouts/_navigation.html.erb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"authentication",
+				"app/controllers/authentications_controller.rb"
+			],
+			[
+				"application.cs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"application.h",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"devise.",
+				"config/initializers/devise.rb"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"welco",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"welcome_con",
+				"spec/controllers/welcome_controller_spec.rb"
+			],
+			[
+				"applica",
+				"sandbox/config/application.rb"
+			],
+			[
+				"application.rb",
+				"sandbox/config/application.rb"
+			],
+			[
+				"common.js",
+				"sandbox/app/assets/javascripts/store/common.js"
+			],
+			[
+				"bootstr",
+				"sandbox/app/assets/javascripts/store/bootstrap.js"
+			],
+			[
+				"center",
+				"sandbox/app/views/shared/_center_header.html.erb"
+			],
+			[
+				"main",
+				"sandbox/app/views/layouts/main.html.erb"
+			],
+			[
+				"taxons_co",
+				"frontend/app/controllers/spree/taxons_controller.rb"
+			],
+			[
+				"scope",
+				"core/app/models/spree/product/scopes.rb"
+			],
+			[
+				"main.h",
+				"sandbox/app/views/layouts/main.html.erb"
+			],
+			[
+				"filter",
+				"frontend/app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"produ",
+				"sandbox/lib/spree/product_filters.rb"
+			],
+			[
+				"_product_filter",
+				"sandbox/app/views/shared/_product_filters.html.erb"
+			],
+			[
+				"show",
+				"frontend/app/views/spree/taxons/show.html.erb"
+			],
+			[
+				"taxonomy.js",
+				"backend/app/assets/javascripts/admin/taxonomy.js"
+			],
+			[
+				"edit.erb",
+				"backend/app/views/spree/admin/taxonomies/edit.erb"
+			],
+			[
+				"taxonomy.j",
+				"sandbox/app/assets/javascripts/store/taxonomy.js"
+			],
+			[
+				"_filt",
+				"frontend/app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"taxons",
+				"frontend/app/controllers/spree/taxons_controller.rb"
+			],
+			[
+				"en.",
+				"core/config/locales/en.yml"
+			],
+			[
+				"product_fi",
+				"sandbox/lib/spree/product_filters.rb"
+			],
+			[
+				"product_filter",
+				"sandbox/lib/spree/product_filters.rb"
+			],
+			[
+				"navigation.css.sc",
+				"sandbox/app/assets/stylesheets/store/navigation.css.scss"
+			],
+			[
+				"bootstrap",
+				"sandbox/app/assets/stylesheets/store/bootstrap.css.scss"
+			],
+			[
+				"style",
+				"sandbox/app/assets/stylesheets/store/styles.css.scss"
+			],
+			[
+				"application_ma",
+				"sandbox/app/assets/stylesheets/application_main.css"
+			],
+			[
+				"taxonomi",
+				"frontend/app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"how",
+				"frontend/app/views/spree/taxons/show.html.erb"
+			],
+			[
+				"taxonomy",
+				"core/app/models/spree/taxonomy.rb"
+			],
+			[
+				"taxon.rb",
+				"core/app/models/spree/taxon.rb"
+			],
+			[
+				"taxons_con",
+				"frontend/app/controllers/spree/taxons_controller.rb"
+			],
+			[
+				"_taxonomi",
+				"frontend/app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"_taxonoie",
+				"frontend/app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"taxonomy.",
+				"core/app/models/spree/taxonomy.rb"
+			],
+			[
+				"_taxon_t",
+				"backend/app/views/spree/admin/taxons/_taxon_table.html.erb"
+			],
+			[
+				"en.y",
+				"core/config/locales/en.yml"
+			],
+			[
+				"en.ym",
+				"api/config/locales/en.yml"
+			],
+			[
+				"_config",
+				"backend/app/views/spree/admin/shared/_configuration_menu.html.erb"
+			],
+			[
+				"edit",
+				"backend/app/views/spree/admin/taxonomies/edit.erb"
+			],
+			[
+				"spree.rb",
+				"sandbox/config/initializers/spree.rb"
+			],
+			[
+				"price",
+				"core/app/models/spree/price.rb"
+			],
+			[
+				"_main_nav",
+				"frontend/app/views/spree/shared/_main_nav_bar.html.erb"
+			],
+			[
+				"_filters",
+				"frontend/app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"show.html",
+				"frontend/app/views/spree/taxons/show.html.erb"
+			],
+			[
+				"environment",
+				"sandbox/config/environment.rb"
+			],
+			[
+				"product_filtr",
+				"core/lib/spree/core/product_filters.rb"
+			],
+			[
+				"_filte",
+				"spree_ss_theme/app/views/spree/shared/_filters.html.erb"
+			],
+			[
+				"styles",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/styles.css.scss"
+			],
+			[
+				"add_menu",
+				"cave_spree/db/migrate/20130306060131_add_menu_icon_to_spree_taxons.rb"
+			],
+			[
+				"deve",
+				"cave_spree/config/environments/development.rb"
+			],
+			[
+				"developme",
+				"cave_spree/config/environments/development.rb"
+			],
+			[
+				"",
+				"/home/shajin/Desktop/SupportSages/index_edited.html"
+			],
+			[
+				"taxon",
+				"cave_spree/app/helpers/taxon_helper.rb"
+			],
+			[
+				"navigation",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/navigation.css.scss"
+			],
+			[
+				"spree_app",
+				"spree_ss_theme/app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"application_hel",
+				"cave_spree/app/helpers/application_helper.rb"
+			],
+			[
+				"screen",
+				"spree_ss_theme/app/assets/stylesheets/store/screen.css.scss"
+			],
+			[
+				"stylesc",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/styles.css.scss"
+			],
+			[
+				"application.ht",
+				"cave_spree/app/views/layouts/application.html.erb"
+			],
+			[
+				"development.rb",
+				"spree_ss_theme/spec/dummy/config/environments/development.rb"
+			],
+			[
+				"app",
+				"cave_spree/spec/helpers/application_helper_spec.rb"
+			],
+			[
+				"spree_appl",
+				"spree_ss_theme/app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"nav_menu",
+				"spree_ss_theme/app/views/spree/shared/_nav_menu_first_column"
+			],
+			[
+				"nav",
+				"spree_ss_theme/app/views/spree/shared/_nav_menu_first_column"
+			],
+			[
+				"naviga",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/navigation.css.scss"
+			],
+			[
+				"bootstra",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/bootstrap.css"
+			],
+			[
+				"navi",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/navigation.css"
+			],
+			[
+				"styles.css.scss",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/styles.css.scss"
+			],
+			[
+				"styles.css",
+				"spree_ss_theme/app/assets/stylesheets/store/ss_theme/styles.css.scss"
+			],
+			[
+				"spree_core",
+				"spree_ss_theme/app/assets/stylesheets/store/spree_core.css"
+			],
+			[
+				"spree_core.cs",
+				"spree_ss_theme/app/assets/stylesheets/admin/spree_core.css"
+			],
+			[
+				"applic",
+				"cave_spree/public/assets/application.css"
+			],
+			[
+				"mai",
+				"spree_ss_theme/app/views/spree/shared/_main_nav_bar.html.erb"
+			],
+			[
+				"spree_ap",
+				"spree_ss_theme/app/views/spree/layouts/spree_application.html.erb"
+			],
+			[
+				"ge",
+				"cave_spree/Gemfile"
+			],
+			[
+				"all.js",
+				"cave_spree/public/assets/store/all.js"
+			],
+			[
+				"taxono",
+				"spree_ss_theme/app/views/spree/shared/_taxonomies.html.erb"
+			],
+			[
+				"nav_",
+				"spree_ss_theme/app/views/spree/shared/_nav_bar.html.erb"
+			],
+			[
+				"_main",
+				"spree_ss_theme/app/views/spree/shared/_main_nav_bar.html.erb"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"notifi",
+				"app/mailers/notifier.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}

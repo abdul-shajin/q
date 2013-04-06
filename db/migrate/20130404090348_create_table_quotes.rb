@@ -1,8 +1,8 @@
 class CreateTableQuotes < ActiveRecord::Migration
   def up
   	create_table :quotes do |t|
-      t.text :quote
-      t.references :user
+      t.text :quote, :null => false
+      t.references :user, :null => false
       t.string :author
 
 

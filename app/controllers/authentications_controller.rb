@@ -1,8 +1,6 @@
 class AuthenticationsController < ApplicationController
   def create
   	auth = request.env["omniauth.auth"]
-    debugger  	
-  	 # Try to find authentication first
   	 authentication = Authentication.find_by_provider_and_uid(auth['provider'], auth['uid'])
   	
   	 if authentication

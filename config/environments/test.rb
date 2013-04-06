@@ -1,4 +1,5 @@
 Quottage::Application.configure do
+  require 'bcrypt'  #To speed up test by lowering BCrypt's cost function
   # Settings specified here will take precedence over those in config/application.rb
 
   # The test environment is used exclusively to run your application's
@@ -34,4 +35,8 @@ Quottage::Application.configure do
 
   # Print deprecation notices to the stderr
   config.active_support.deprecation = :stderr
+  #Speed up test by lowering BCrypt's cost function.
+  silence_warnings do
+    BCrypt::Engine::DEFAULT_COST = BCrypt::Engine::MIN_COST
+  end
 end

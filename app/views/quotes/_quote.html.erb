@@ -1,0 +1,11 @@
+<li>
+  <li id="<%= quote.id %>">
+  <%= gravatar_for(quote.user) %>
+  <span class="user">
+  	<%= link_to quote.user.name, '#' %>
+  </span>	
+  <span class="content"><%= quote.quote %></span>
+  <span class="timestamp">
+    Posted <%= time_ago_in_words(quote.created_at) %> ago.
+  </span>
+</li>
