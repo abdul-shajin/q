@@ -1,8 +1,8 @@
 <li>
   <li id="<%= quote.id %>">
-  <%= gravatar_for(quote.user) %>
+  <%= link_to gravatar_for(quote.user), quote.user %>
   <span class="user">
-  	<%= link_to quote.user.name, '#' %>
+  	<%= link_to quote.owner_name, quote.user %>
   </span>	
   <span class="content"><%= quote.quote %></span>
   <span class="timestamp">

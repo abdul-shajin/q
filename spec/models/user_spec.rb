@@ -24,7 +24,8 @@ describe User do
 
 	#Relationship Tests
   it { should have_many(:quotes).dependent(:destroy)}
-  it { should have_many(:authentications).dependent(:delete_all)}  
+  it { should have_many(:authentications).dependent(:delete_all)} 
+  it { should have_one(:user_profile).dependent(:destroy)} 
 
   #DB tests
   it { should have_db_column(:email).of_type(:string)}

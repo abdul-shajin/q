@@ -14,4 +14,8 @@ class Quote < ActiveRecord::Base
   attr_accessible :user_id,:quote,:author
   belongs_to :user
   default_scope order: 'quotes.created_at DESC'
+
+  def owner_name
+  	user.user_profile.name || ''
+  end
 end

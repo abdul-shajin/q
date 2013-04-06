@@ -30,12 +30,17 @@ describe Quote do
   it { should have_db_column(:author).of_type(:string)}
   it { should have_db_column(:created_at).of_type(:datetime)}
   it { should have_db_column(:updated_at).of_type(:datetime)}
+   
+
   #Contaxt type tests
 	it "should have a user" do
 		@quote.user.should be_valid
 	end
 	it "should respond to user" do
 		@quote.should respond_to(:user)
+  end
+  it "should respond to method owner_name" do
+  	@quote.should respond_to(:owner_name)
   end
 
 

@@ -8,6 +8,9 @@ Quottage::Application.routes.draw do
   #match '/auth/:provider/callback', :to => 'sessions#callback'
   match '/auth/:provider/callback', :to => 'authentications#create'
 
+  resources :users, :only => :show
+  resources :quotes, :only => :show
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

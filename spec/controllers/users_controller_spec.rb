@@ -1,12 +1,12 @@
 require 'spec_helper'
 
-describe QuotesController do
+describe UsersController do
   describe "GET 'show'" do
   	before do
-  		@quote = FactoryGirl.create(:quote)
+  		@user = FactoryGirl.create(:user)
   	end
     it "returns http success on root" do
-      visit quote_path(@quote)
+      visit user_path(@user)
       response.should be_success
     end
   end

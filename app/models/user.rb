@@ -31,6 +31,8 @@ class User < ActiveRecord::Base
 
   has_many :authentications, :dependent => :delete_all
   has_many :quotes, :dependent => :destroy
+  has_one :user_profile, :dependent => :destroy
+  #default_scope include(:user_profile)
 
 
 
@@ -38,6 +40,8 @@ class User < ActiveRecord::Base
   # In previous omniauth, 'user_info' was used in place of 'raw_info'
   self.email = auth['extra']['raw_info']['email']
   self.profile_image = auth['info']['image']
+  self.user_profile.name = auth['info']['name'] || String.new
+  self.user_profile.location = auth['info']['location'] || String.new
   # Again, saving token is optional. If you haven't created the column in authentications table, this will fail
   authentications.build(:provider => auth['provider'], :uid => auth['uid'], :token => auth['credentials']['token'])
 end
